@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+numpy
+python-multipart
+openai-whisper

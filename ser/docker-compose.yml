@@ -1,0 +1,8 @@
+services:
+  whisper:
+    image: shmuelblau/whisper:3
+    volumes:
+      - ./:/app
+    
+    ports:
+      - "8000:8000"
